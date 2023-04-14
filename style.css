@@ -50,6 +50,22 @@ div {
     color: rgb(255, 255, 255);
     text-align: center;
     padding: 20px;
+    height: 800px;
+}
+.pensativo img {
+float: right ;
+}
+.pensativo p{
+font-size: 50px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.apaixonado {
+   border: double 6px black;
+   background-color: rgb(128, 122, 122);
+   color: rgb(255, 255, 255);
+   text-align: center;
+   padding: 20px;
 }
 
 nav ul li {
