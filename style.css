@@ -44,6 +44,13 @@ div {
 
 }
 
+.pensativo {
+   border: double 6px black;
+    background-color: rgb(128, 122, 122);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 20px;
+}
 
 nav ul li {
   display: inline-block;
